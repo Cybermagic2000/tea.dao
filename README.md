@@ -1,1 +1,1 @@
-# tea.dao
+# tea.yaml
